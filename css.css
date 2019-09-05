@@ -109,6 +109,23 @@ body{
 	opacity: 0;
 }
 
+#nav-content-container
+{
+	position: absolute;
+
+}
+
+#nav
+{
+	position: relative;
+}
+
+#content
+{
+	position: relative;
+	padding: 16px 0px 24px;
+}
+
 #homefoot{
 	margin-top: 0px;
 	/*margin-bottom: 2%;*/
